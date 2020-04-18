@@ -1,0 +1,19 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/PavelYakimovich/JSCourse.git)"
+  },
+  "author": "PY",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^7.1.1",
+    "npm": "^6.14.4"
+  }
+}
